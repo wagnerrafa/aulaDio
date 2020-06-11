@@ -1,0 +1,46 @@
+Estrutura REST
+
+faz uma requisiçao HTTP(get, post, put, delete)
+GET solicita a representação de um recurso
+POST solicita a criação de um recurso
+DELETE Solicita a exclusão de um recurso
+PUT solicita a atualização de um recurso
+
+status code(de 100 a 500)
+    1xx - informativo
+    2xx - Sucesso
+    3xx - Redirecionamento
+    4xx - Erro do cliente
+    5xx - Erro do servidor
+
+retorna um codigo de operação
+retorna mensagem(podendo ser em JSON, xml, texto)
+
+quando uma aplicação disponibiliza um conjunto de rotinas e padroes atraves de serviços web, podemos chamar de API
+
+API
+ 
+rotinas disponibilizadas por uma aplicação para que outras aplicaçoes possa consumir suas funcionalidades
+
+API pode ser , Rest, SOAP
+
+JSON
+
+Troca de msgs entre sistemas
+Estrutura de chave e valor e listas ordenadas
+
+{
+    "nome": "OS vingadores",
+    "ano_lancamento": "2019,
+    "personagens":[
+        {
+            "nome": "Thanos"
+        },
+        {
+            "nome": "Homem de ferro"
+        },
+        {
+            "nome": "Thor"
+        }
+    ]
+}
