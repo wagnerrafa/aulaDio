@@ -1,0 +1,7 @@
+como fazer chamada SOAP pelo python 
+
+from zeep import Client
+
+client = Client("http://www.dneonline.com/calculator.asmx?wsdl")
+result = client.service.Subtract(intA="4", intB="2") #ou no parametro(4,2)
+print(result)
