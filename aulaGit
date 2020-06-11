@@ -9,3 +9,5 @@ git push -u origin master
 git branch nome_da_branch "cria uma nova branch no repositorio local 
 git checkout -b nome_da_branch "cria uma nova branch e troca a referencia para a nova branch
 
+git merge nome_da_branch "mescla alteraçoes da branch atual com a branch em que foi passsado o nome"
+git push para salvar a merge

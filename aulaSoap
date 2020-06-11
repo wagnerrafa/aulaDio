@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Chamada de SOAP wsdl pelo zeep no python
+=======
+como fazer chamada SOAP pelo python 
+>>>>>>> aulaSoap
 
 from zeep import Client
 
