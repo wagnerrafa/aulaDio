@@ -1,0 +1,68 @@
+estrutura - posicionamento do layout
+conteudo - como colocar para ajudar na usabilidade e interatividade
+hierarquia informativa - como o conteuo será apresentado
+funcionalidade - como será a usabilidade em cima da interface. Como vai se comportar com o usuario
+
+
+GRIDS
+
+grid = determinar o fluxo da leitura que queremos que o leitor tenha
+ajuda a projetar proporções harmoniosas 
+
+luzem e sombras - garantem movimento, sobreposição e contraste. 
+importante para indicar uma ação 
+
+consistencia e padrão - manter o mesmo tom no layout(Ux writer)
+(UX design)manter a consistencia em diversos devices
+
+
+CORES
+
+Conhecer a psicologia das cores. 
+Cores primarias - as primeiras a serem utilizadas
+Cores secundarias - saber por padrão as cores que já tem um significado implicito. EX. vermelho=erro
+Gradiente ou degrade, flat - maior impacto visual, da mais profundidade, sensação de dinamismo e movimento
+
+
+TIPOGRAFIA
+
+Reflete o estilo, personalidade
+
+Serifadas - pequenos traços ou prolongados no final de suas letras. Representa seriedade ee tradicionalidade
+Sem serifa - Não tem as linhas extras, consideradas mais modernas e dinãmicas
+Cursivas- manuscritas ou caligraficas. elegante, pessoal e exclusivo a divertido e descontraido
+Decorativas -  fontes para chamarem a atenção, mais inusitads e usado em pequenas doses, para efeito especifico.
+Tamanho e pessoal
+
+Fontes e peso - tamanho padrão do browser 16px
+Peso - grossura do caracterer, normal, bold, bolder e lighter
+
+
+Iconografia
+
+Icones são imagens de objetos que os usuarios estão mais familiarizados
+manter os icones simples, ex. sacolinha de compra, coração ou curtir para representar que gostou daquilo
+combinar os icones com palavras
+processam mais rapidamente os icones do que o texto
+espaço de pelo menos 1cm x 1cm no minimo 
+consistencia - não mais do que 3 cores para manter o design clean, sem medo de repetir elementos no icones
+contexto relevante ao usar imagens e usar a que realmente vai capturar a atenção do usuario
+
+
+Responsividade
+
+mobile first
+google recize - extensao para ver diversos tamanhos de tela no proprio site
+acessibilidade - construir serviços que funcionam para todos
+
+Prototipagem
+
+necessario para melhorar a UX, atualizar modelos de negocios
+pode ser desde uma representação conceitual até a baixa fidelidade, passar só os aspectos de ideia
+
+Portfolio
+
+ui-lab0school
+
+www.ideo.com
+material.io
