@@ -1,0 +1,38 @@
+Script started on qui 18 jun 2020 19:22:23 -03
+
+wagner@wagner-PC: psql dbTeste 
+psql (9.6.10)
+Digite "help" para ajuda.
+
+dbTeste=>
+Create Table Cliente( Codigo numeric(10) Not Null Primary Key, Nome varchar(50)
+Not Null, Telefone varchar(15));
+CREATE TABLE
+
+dbTeste=> INSERT INTO Cliente values(1,'Wagner Rafael','(11)94300-0000');
+INSERT 0 1
+
+dbTeste=> update Cliente set Nome='Wagner Oliveira' Where Codigo=1
+UPDATE 1
+
+dbTeste=> DELETE FROM Cliente Where Codigo=1;
+DELETE 1;
+
+INSERT INTO Cliente values(1,'Wagner Rafael','(11)94300-0000');
+INSERT 0 1
+
+select Codigo, Nome, Telefone  from Cliente where Codigo=1;
+
+ codigo |     nome      |    telefone    
+--------+---------------+----------------
+      1 | Wagner Rafael | (11)94300-0000
+(1 registro)
+
+dbTeste=> \q
+wagner@wagner-PC: ~[01;32mwagner@wagner-PC[00m:[01;34m~[00m$ exit
+exit
+
+Script done on qui 18 jun 2020 19:23:24 -03
+
+
+
