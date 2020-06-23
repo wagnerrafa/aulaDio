@@ -1,0 +1,6 @@
+protocolo de comunicação da IOT
+
+Comunicação entre client e broker: 
+    nivel 0 nao tem garantia que a msg foi entregue, nem armazena dados
+    nivel 1 a msg é armazenada no client e responde que recebeu e armazenou a msg, é retransmitida se nao ouver a confirmaçao de recebimento
+    nivel 2 manda msg até o broker enviar a confirmação que recebeu a msg
