@@ -1,0 +1,128 @@
+comunicação assincrona
+
+Passo 1 = web app > proxy HTTP > serviço 1 > message broker
+Passo 2 = message broker > serviço 2 > message broker
+Passo 3 = message broker > serviço 3
+
+Gerenciamento de erros
+
+dead letter queue(filas de re-tentativas)
+monitoramento entre serviços(armazenar logs de operação,ex pelo track id)
+rastreamento de fluxo
+
+Bisiness Intelligence
+
+ferramentas,
+infraestrutura,
+profissonais(corpo tecnico),
+Dados,(vem dos sgbds)
+dados gerencias(indicador de vendas, pesquisa de campo,indicadores do mercado, queda,alta de bolsa)
+
+bi-solution
+infraestrutura, gerenciamento de dados, analitics,compartilhamento,ferramentas gerenciais
+
+Data Warehouse
+
+oltp - transações online, atualizações de produto, inserção de uma nova vendas, dados volateis, passiveis de modificação e exclusão
+olap - consolidação dos dados, nao devem ser alterados
+dimensoes - tempo, geografia e membros
+
+BigData
+
+Grande volume de dados estruturados ou não
+formatos diversos de informação, que podemos retirar algo conhecimento(audio, dispositiovs conectados, imagens)
+ferramentas - Data torrent, Hadoop, Spark, Storm
+semi-estruturados - podem ter regras não muito especificas
+
+Data Lake
+
+tbm um grande volume de informaçoes
+um bigData mais corporativo
+
+Usando MongoDb
+
+use loja > cria um banco de nome loja e faz a troca para esse banco
+db.produtos.insert({ codigo: "01", descricao: "caneta"})
+db.produtos.find() > realiza uma pesquisa no banco e tras os resultados
+show databases > mostra os bancos de dados do sistema
+
+Cloud computing
+
+faz o gerenciamentode de hardware/software
+provedores de servidor e armazenamento
+pagar o que consumir
+
+
+IAAS
+infraestrutura as a service
+aluguel de maquinas e fazer o que quiser(api, rest, meu site)
+
+PAAS
+platform as a service
+infraestrutura e uma plataforma(um meio de automatizar essas maquinas)
+auto scale > ao sentir necessidades para dar conta de demanda pode aumentar mais maquinas, automatica ou não
+
+BAAS
+backend as a service
+mobile backend as a service
+firebase(focar na aplicação visual, e o fire cuida da parte de autenticação e backend)
+
+
+Disponibilidade
+
+kubernets
+multiplos nodos
+load balancer
+
+Serverless
+sem servidor
+sem serviço rodando
+sem down time
+nao precisar cuidar do servidor pq a aplicaçao garante
+
+aws lambda
+lambda function que vai receber o evento e tratar
+
+
+DevOps > resolve problemas humanos
+
+integram e automatizam os processos entre as equipes Development, quality assurance, it operations
+produzuir software rapido e confiavel
+comunicar mais entre equipes
+
+framework calms
+cultura - todas as ferramentassão inuteis se nao trabalharem juntos
+
+automação - elimina o processo manual repetitivo, gera velocidade na entrega
+compilação, teste, implementação e provisionamneto são o ponto de partida para as equipes
+
+lean - focar nas entregas de valor ao clientes
+ser objetivo e enxuto, conhecer as limitações e gargalos
+ver oportunidade de melhoria em tudo
+
+mensurament - obter metricas para novas melhorias, seja para o processo de desenvolvimento, o software produzido
+criam previsibilidade para possiveis incidentes
+
+sharing - compartilhar informaçoes auxilia na descentralização de conhecimento,
+ajuda na criação de tines genericos, fica autosustentavel
+
+
+Os caminhos
+
+flow - visa eliminar gargalos no processo, transferencia de responsabilidadee tempo de espera
+aplicação de metodologia ageis e automatização dos processos
+dev ----> ops
+
+feedback - resolver problemas o quanto antes, testando tudo, alertando qualquer falha
+dev <----> ops
+
+learning - gerar conhecimento continuo, hipoteses sao melhores que certezas imediatas.
+trabalho dinamico, realizando experimentos
+dev<---->ops
+
+
+Entregando o software
+<-->plan, code, build, test, release, deploy, operate, monitor
+ 
+
+CI - integração continua  
