@@ -1,4 +1,4 @@
-package usuario;
+package one.digitalinnovation.usuario;
 
 public class SuperUsuario {
     private String login;
