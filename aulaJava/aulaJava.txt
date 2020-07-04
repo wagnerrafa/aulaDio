@@ -1,0 +1,11 @@
+SOLID
+
+S - Uma classe deve ter somente um motivo para mudar, possuir uma responsabilidade
+
+O - Deve estender o comportamento da classe sem modifica-lo(interfaces,estensao)
+
+L -  Classes derivadas devem ser substituidas por suas classes bases, a abstração pode criar problemas
+
+I - Uma classe não deve implementar interfaces e metodos que não seram utilizados
+
+D - Depender de abstrações e não de implementações
