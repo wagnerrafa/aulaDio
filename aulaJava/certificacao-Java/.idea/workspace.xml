@@ -9,8 +9,6 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/digitalinnovation/Date/DataExemplo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/digitalinnovation/Date/DataExemplo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/digitalinnovation/Date/DataExemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digitalinnovation/Date/DataExemplo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataExemplo">
+  <component name="RunManager" selected="Application.meuArray">
     <configuration name="DataExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="digitalinnovation.Date.DataExemplo" />
       <module name="certificacao-Java.main" />
@@ -138,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramaPessoaFisica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.classes.pessoa.ProgramaPessoaFisica" />
+    <configuration name="meuArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.array.meuArr" />
       <module name="certificacao-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="digitalinnovation.classes.pessoa.*" />
+          <option name="PATTERN" value="digitalinnovation.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,32 +149,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="certificacao-Java [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="meuArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.array.meuArray" />
+      <module name="certificacao-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digitalinnovation.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.meuArr" />
+        <item itemvalue="Application.meuArray" />
         <item itemvalue="Application.DataExemplo" />
         <item itemvalue="Application.Date (1)" />
         <item itemvalue="Application.Date" />
-        <item itemvalue="Gradle.certificacao-Java [build]" />
-        <item itemvalue="Application.ProgramaPessoaFisica" />
       </list>
     </recent_temporary>
   </component>
@@ -210,38 +202,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="136" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593794443060" />
-    <state width="1320" height="226" key="GridCell.Tab.0.bottom" timestamp="1593895990624">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1593972933914">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.0.center" timestamp="1593895990624">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593972933914" />
+    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1593972933913">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.0.left" timestamp="1593895990624">
+    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1593972933913" />
+    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1593972933913">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.0.right" timestamp="1593895990624">
+    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1593972933913" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1593972933913">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1593895990625">
+    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1593972933913" />
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1593972569290">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593895990625" />
-    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1593895990624">
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1593972569290" />
+    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1593972569290">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1593895990624">
+    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1593972569289" />
+    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1593972569289">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1593895990624" />
-    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1593895990625">
+    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1593972569289" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1593972569290">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1593895990625" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1593972569290" />
     <state x="191" y="0" key="SettingsEditor" timestamp="1593793901319">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
