@@ -9,3 +9,12 @@ L -  Classes derivadas devem ser substituidas por suas classes bases, a abstraç
 I - Uma classe não deve implementar interfaces e metodos que não seram utilizados
 
 D - Depender de abstrações e não de implementações
+
+
+Exceptios
+
+throws - assinatura do metodom será retornado caso ocorra um erro paa o metodo que fez a chamada.
+
+throw - usado para lançar a excesao desejada, junto com a mensagem de erro.
+
+checked expection - errros esperados
