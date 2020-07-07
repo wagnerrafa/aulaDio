@@ -102,7 +102,20 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exampleHashMap">
+  <component name="RunManager" selected="Application.ExampleOptional">
+    <configuration name="ExampleOptional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.optional.ExampleOptional" />
+      <module name="certificacao-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digitalinnovation.optional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.HashSet" />
       <module name="certificacao-Java.main" />
@@ -142,19 +155,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exampleQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.listQueue.exampleQueue" />
-      <module name="certificacao-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="digitalinnovation.listQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="treeSett" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.treeSett" />
       <module name="certificacao-Java.main" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExampleOptional" />
         <item itemvalue="Application.exampleHashMap" />
         <item itemvalue="Application.treeSett" />
         <item itemvalue="Application.LinkedSet" />
         <item itemvalue="Application.HashSet" />
-        <item itemvalue="Application.exampleQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -212,22 +212,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="136" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593794443060" />
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594155234028">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594158652641">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
-    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594155234028">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594158652641" />
+    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594158652641">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
-    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594155234027">
+    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594158652641" />
+    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594158652641">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594155234027" />
-    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594155234028">
+    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594158652641" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594158652641">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594158652641" />
     <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1594152536208">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
