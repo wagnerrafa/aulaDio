@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="89b0b975-56db-49a2-8a71-b9d02df171ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/digitalinnovation/list/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/digitalinnovation/list/ListExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +96,26 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.exampleQueue">
-    <configuration name="DataExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.Date.DataExemplo" />
+  <component name="RunManager" selected="Application.treeSett">
+    <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.HashSet" />
       <module name="certificacao-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="digitalinnovation.Date.*" />
+          <option name="PATTERN" value="digitalinnovation.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.LinkedSet" />
+      <module name="certificacao-Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digitalinnovation.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,25 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="meuArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.array.meuArr" />
+    <configuration name="treeSett" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.treeSett" />
       <module name="certificacao-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="digitalinnovation.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="meuArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.array.meuArray" />
-      <module name="certificacao-Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="digitalinnovation.array.*" />
+          <option name="PATTERN" value="digitalinnovation.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.treeSett" />
+        <item itemvalue="Application.LinkedSet" />
+        <item itemvalue="Application.HashSet" />
         <item itemvalue="Application.exampleQueue" />
         <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.meuArr" />
-        <item itemvalue="Application.meuArray" />
-        <item itemvalue="Application.DataExemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +194,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="241" y="304" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1593797087373" />
+    <state x="416" y="133" width="526" height="513" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594149409429">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="416" y="133" width="526" height="513" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.768@0.0.1366.768" timestamp="1594149409429" />
     <state x="208" y="0" key="CommitChangelistDialog2" timestamp="1593796303477">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -203,38 +206,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="136" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593794443060" />
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594143891067">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594151759454">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594143891067" />
-    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594143891067">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
+    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594151759454">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594143891067" />
-    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594143891066">
+    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
+    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594151759454">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594143891066" />
-    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594143891067">
+    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594151759454">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594143891067" />
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1594071052597">
+    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1594151557556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594071052597" />
-    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1594071052597">
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
+    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1594151557556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594071052597" />
-    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1594071052596">
+    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
+    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1594151557555">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594071052596" />
-    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1594071052597">
+    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594151557555" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1594151557556">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594071052597" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
     <state x="191" y="0" key="SettingsEditor" timestamp="1593793901319">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
