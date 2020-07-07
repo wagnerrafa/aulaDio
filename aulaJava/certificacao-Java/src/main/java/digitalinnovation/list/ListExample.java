@@ -54,7 +54,5 @@ public class ListExample {
         nomes.clear(); //limpar lista
         listaVazia = nomes.isEmpty();
         System.out.println("verificando se tem valores na lista: " + listaVazia);
-
-        nomes.addAll(nome)
     }
 }
