@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89b0b975-56db-49a2-8a71-b9d02df171ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +102,7 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.treeSett">
+  <component name="RunManager" selected="Application.exampleHashMap">
     <configuration name="HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="digitalinnovation.set.HashSet" />
       <module name="certificacao-Java.main" />
@@ -123,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="digitalinnovation.list.ListExample" />
+    <configuration name="exampleHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digitalinnovation.map.exampleHashMap" />
       <module name="certificacao-Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="digitalinnovation.list.*" />
+          <option name="PATTERN" value="digitalinnovation.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exampleHashMap" />
         <item itemvalue="Application.treeSett" />
         <item itemvalue="Application.LinkedSet" />
         <item itemvalue="Application.HashSet" />
         <item itemvalue="Application.exampleQueue" />
-        <item itemvalue="Application.ListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -206,38 +212,38 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="136" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1593794443060" />
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594151759454">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1594155234028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
-    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594151759454">
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
+    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1594155234028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
-    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594151759454">
+    <state width="1320" height="165" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
+    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1594155234027">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
-    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594151759454">
+    <state width="1320" height="165" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1594155234027" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1594155234028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594151759454" />
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1594151557556">
+    <state width="1320" height="165" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1594155234028" />
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom" timestamp="1594152536208">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
-    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1594151557556">
+    <state width="1320" height="226" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1594152536208" />
+    <state width="1320" height="226" key="GridCell.Tab.1.center" timestamp="1594152536208">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
-    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1594151557555">
+    <state width="1320" height="226" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1594152536208" />
+    <state width="1320" height="226" key="GridCell.Tab.1.left" timestamp="1594152536207">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594151557555" />
-    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1594151557556">
+    <state width="1320" height="226" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1594152536207" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right" timestamp="1594152536208">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594151557556" />
+    <state width="1320" height="226" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1594152536208" />
     <state x="191" y="0" key="SettingsEditor" timestamp="1593793901319">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
