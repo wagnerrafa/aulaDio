@@ -1,0 +1,43 @@
+SCRUM 
+
+Transparencia, adaptação, inspeção
+
+- conversar mais, escrever menos
+- demonstrar o software constantemente ao usuario, obter feedback
+- aprender progressivamente o uso do software
+- desenvolvido e entregue em partes menores(2 a 4 semanas)
+- reduçao de incertezas
+- Daily meeting 15min, atualização e inspecao do kanban
+- equipes capazas de se auto-organizar
+- tarefas são do time e todos são responsaveis
+
+MVP- produto minimo viavel
+
+PO - product owner
+- representante da area de negocios
+- define as funcionalidades do software
+- prioriza as funcionalidades de acordo com o valor do negocio 
+
+Sm - SCRUM master
+= garantir o uso correto do SCRUM
+- nao é o gerente de projetos
+- age como facilitador
+- auxilia o PO
+- auxilia a equipe a remover impedimentos
+
+DEV - time de desenvolvimento
+- habilidades suficientes para desenvolver, testar, criar e desenhar, tudo necessatio para entregar o software
+
+Time box - tempo maximo para fazer uma sprint(cerimonia)
+Sprint = corrida, arrancada
+- principal evento do Scrum
+- planejamento da sprint
+- reunioes diarias
+- revisoes
+- Po, dev, Scrum master
+- no ultimo dia o time dev apresenta para o PO o trabalho feito(projeto de 30, dura 4hrs)
+- retrospectiva da sprint tbm no ultimo dia(reuniao da equipe)apontar os erros da equipe, sprint(30 dias, dura 3hrs)
+
+Diferença pratica
+
+criar pequenos produtos viaveis e depois ir melhorando conforme o feedback
