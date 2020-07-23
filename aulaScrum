@@ -41,3 +41,25 @@ Sprint = corrida, arrancada
 Diferença pratica
 
 criar pequenos produtos viaveis e depois ir melhorando conforme o feedback
+
+
+release planing de multiplas squads
+release planing de projeto
+
+definir escopos e prioridades que já agregam valor ao cliente e receba feedbacks
+
+product backlog - composto por epicos(incremento sem muito detalhamentoa,ajuda a direcionar caminhos) e estorias(detalhamentos dos epicos)
+
+estoria{
+    nome da estoria,
+    descricao da estoria,
+    regras de negocio,[separar regras de front e back]
+    tela,[link ou omagem das telas a serem desenvolvidas]
+    kpi,[quais os objetivos/valor e estoria precisa atingir]
+    tagueamento,[como a estoria será tagueada]
+    criterios de aceite,
+}
+
+riscos positivos e negativos
+
+Transformação digital - uso da tecnologia para melhorar o desempenho
