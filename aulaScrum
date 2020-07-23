@@ -62,4 +62,17 @@ estoria{
 
 riscos positivos e negativos
 
-Transformação digital - uso da tecnologia para melhorar o desempenho
+Transformação digital - uso da tecnologia para melhorar o desempenho, aumemtar o alcançe e resultados melhores
+
+tarefa - conjunto de atividades que o time de dev deve desempenhar para entregar a estoria
+estoria é um conjunto de tarefas(priorizada nas sprints), nivel de negocio
+epico é um conjunto de estorias
+
+criterios de aceite - lista de criterios a ser alcançados para que o User Story atenda os requisitos
+
+planing poker - atividades mais simples recebe 1, mais dificeis recebe 13, acima de 20
+
+refinamento - um passo antes da planing, no final da sprint anterior
+
+objetivo da review - verificar se a demanda agrega negocio
+
