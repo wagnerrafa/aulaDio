@@ -1,0 +1,78 @@
+SCRUM 
+
+Transparencia, adaptação, inspeção
+
+- conversar mais, escrever menos
+- demonstrar o software constantemente ao usuario, obter feedback
+- aprender progressivamente o uso do software
+- desenvolvido e entregue em partes menores(2 a 4 semanas)
+- reduçao de incertezas
+- Daily meeting 15min, atualização e inspecao do kanban
+- equipes capazas de se auto-organizar
+- tarefas são do time e todos são responsaveis
+
+MVP- produto minimo viavel
+
+PO - product owner
+- representante da area de negocios
+- define as funcionalidades do software
+- prioriza as funcionalidades de acordo com o valor do negocio 
+
+Sm - SCRUM master
+= garantir o uso correto do SCRUM
+- nao é o gerente de projetos
+- age como facilitador
+- auxilia o PO
+- auxilia a equipe a remover impedimentos
+
+DEV - time de desenvolvimento
+- habilidades suficientes para desenvolver, testar, criar e desenhar, tudo necessatio para entregar o software
+
+Time box - tempo maximo para fazer uma sprint(cerimonia)
+Sprint = corrida, arrancada
+- principal evento do Scrum
+- planejamento da sprint
+- reunioes diarias
+- revisoes
+- Po, dev, Scrum master
+- no ultimo dia o time dev apresenta para o PO o trabalho feito(projeto de 30, dura 4hrs)
+- retrospectiva da sprint tbm no ultimo dia(reuniao da equipe)apontar os erros da equipe, sprint(30 dias, dura 3hrs)
+
+Diferença pratica
+
+criar pequenos produtos viaveis e depois ir melhorando conforme o feedback
+
+
+release planing de multiplas squads
+release planing de projeto
+
+definir escopos e prioridades que já agregam valor ao cliente e receba feedbacks
+
+product backlog - composto por epicos(incremento sem muito detalhamentoa,ajuda a direcionar caminhos) e estorias(detalhamentos dos epicos)
+
+estoria{
+    nome da estoria,
+    descricao da estoria,
+    regras de negocio,[separar regras de front e back]
+    tela,[link ou omagem das telas a serem desenvolvidas]
+    kpi,[quais os objetivos/valor e estoria precisa atingir]
+    tagueamento,[como a estoria será tagueada]
+    criterios de aceite,
+}
+
+riscos positivos e negativos
+
+Transformação digital - uso da tecnologia para melhorar o desempenho, aumemtar o alcançe e resultados melhores
+
+tarefa - conjunto de atividades que o time de dev deve desempenhar para entregar a estoria
+estoria é um conjunto de tarefas(priorizada nas sprints), nivel de negocio
+epico é um conjunto de estorias
+
+criterios de aceite - lista de criterios a ser alcançados para que o User Story atenda os requisitos
+
+planing poker - atividades mais simples recebe 1, mais dificeis recebe 13, acima de 20
+
+refinamento - um passo antes da planing, no final da sprint anterior
+
+objetivo da review - verificar se a demanda agrega negocio
+
