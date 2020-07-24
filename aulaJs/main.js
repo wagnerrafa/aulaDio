@@ -1,0 +1,24 @@
+function clicar(){
+    document.getElementById("clicar").innerHTML = "obrigado por clicar";
+}
+
+function trocar(elemento){
+    elemento.innerHTML = "passou";
+}
+
+function voltar(elemento){
+    elemento.innerHTML = "Voltei"
+}
+
+function soma(a){
+    return function(b){
+            return a + b;
+    }
+}
+
+const soma2 = soma(2);
+
+console.log(soma2(2));
+console.log(soma2(3));
+console.log(soma2(4));
+console.log(soma2(5));
