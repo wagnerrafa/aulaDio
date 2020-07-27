@@ -3,15 +3,15 @@
     // Passe o mouse para ver as descrições dos atributos existentes.
     // Para obter mais informações, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [  
+    "configurations": [
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
-            "program": "${workspaceFolder}/app.js",
+            "name": "Executar Programa",
             "skipFiles": [
                 "<node_internals>/**"
-            ]
+            ],
+            "program": "${workspaceFolder}/index.js"
         }
     ]
 }
